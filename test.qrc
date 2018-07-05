@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>1db0f2e3447cd3de76a12185b1a2df79.png</file>
+        <file>sign_right_196px_1185692_easyicon.net.png</file>
+        <file>account_circle_128px_1181629_easyicon.net.png</file>
+        <file>Password_shopping_512px_1178345_easyicon.net.png</file>
+        <file>books_book_256px_520284_easyicon.net.png</file>
+        <file>signin.jpg</file>
+    </qresource>
+    <qresource prefix="/jpg">
+        <file>zzpic10012_s.jpg</file>
+    </qresource>
+</RCC>
